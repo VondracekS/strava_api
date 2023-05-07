@@ -1,3 +1,0 @@
-from stravaio import strava_oauth2
-
-strava_oauth2(client_id=STRAVA_CLIENT_ID, client_secret=STRAVA_CLIENT_SECRET)
