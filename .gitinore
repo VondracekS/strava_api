@@ -3,6 +3,6 @@
 
 # Venv
 venv/
-.env/
+.env
 
 
